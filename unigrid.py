@@ -1,7 +1,7 @@
 #Creates a unigrid data cube of density, e:tc, of a specified length
 #from an Enzo simulation, centered on the densest point. Exports the unigrid to a txt file located in the DD or RD directory
 #Marco Surace and Carla Bernhardt
-#Last updated: 31.03.2016
+#Last updated: 01.04.2016
 ###################################################
 
 import matplotlib
